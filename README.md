@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C5612AQG7GnrlpoBG9w/article-cover_image-shrink_600_2000/0/1594835668489?e=2147483647&v=beta&t=mF86lNdLR5b2TX-ozWUatJ3PEXVJdB2HuraH3nIr5Ww)]
+[![MasterHead]https://www.peakpx.com/en/hd-wallpaper-desktop-vlgcy]
 <h1 align="center">Hi 👋, I'm Ankita Shejal</h1>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
