@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitashejal&label=Profile%20views&color=0e75b6&style=flat" alt="ankitashejal" /> </p>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning  **DSA**
 
 - 👯 I’m looking to collaborate on **java**
 
