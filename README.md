@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **java**
 
-- 📫 How to reach me **ankitashejal11@gmail.com**
+- 📫 How to reach me : **ankitashejal11@gmail.com**
 
-- ⚡ Fun fact **I think i am funny.**
+- ⚡ Fun fact : **I think i am funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
